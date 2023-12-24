@@ -23,8 +23,8 @@ export default function RootLayout({ children }) {
           </div>
           <div>
             <Footer />
-            <br/>
-            <p className='text-xs px-20'>© 2023 Zenica Healthcare</p>
+            <br />
+            <p className="text-xs px-20">© 2023 Zenica Healthcare</p>
           </div>
         </div>
       </body>
