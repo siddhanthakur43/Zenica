@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav className="bg-white h-24 py-3 px-20 flex justify-between items-center">
         <a className="font-medium" href="/">
-          <img src="/zenicalogo.jpg" width="200px" height="200px" />
+          <img src="/zenica.jpeg" width="200px" height="200px" />
         </a>
         <div>
           <ul className="flex space-x-5">

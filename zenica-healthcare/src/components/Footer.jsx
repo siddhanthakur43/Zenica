@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className=" bg-white flex justify-between px-20">
       <a href="/">
-        <img src="/zenicalogo.jpg" width="70px" height="70px"></img>
+        <img src="/zenica.jpeg" width="70px" height="70px"></img>
       </a>
       <div>
         <ul className="flex space-x-4">
