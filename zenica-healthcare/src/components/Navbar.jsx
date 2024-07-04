@@ -34,9 +34,9 @@ const Navbar = () => {
         </div>
       </nav>
       <div>
-        <div class="flex items-center px-20">
+        <div className="flex items-center px-20">
           <hr className="flex-1 border-black" />
-          <div class="px-4">
+          <div className="px-4">
             <p>Good Health And Quality of Life is our Mission.</p>
           </div>
           <hr className="flex-1 border-black" />
