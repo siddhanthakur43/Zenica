@@ -34,10 +34,10 @@ const Navbar = () => {
         </div>
       </nav>
       <div>
-        <div className="flex items-center px-20">
+        <div className="flex items-center px-0 md:px-20">
           <hr className="flex-1 border-black" />
-          <div className="px-4">
-            <p>Good Health And Quality of Life is our Mission.</p>
+          <div className="px-4 text-sm md:text-lg">
+            <p>Good Health And Quality of Life is our Mission</p>
           </div>
           <hr className="flex-1 border-black" />
         </div>
