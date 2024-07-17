@@ -51,11 +51,11 @@ const Navbar = () => {
       </nav>
       <div>
         <div className="flex items-center px-0 md:px-20">
-          <hr className="flex-1 border-black" />
+          <hr className="flex-1 border-white md:border-black" />
           <div className="px-4 text-sm md:text-lg">
             <p>Good Health And Quality of Life is our Mission</p>
           </div>
-          <hr className="flex-1 border-black" />
+          <hr className="flex-1 border-white md:border-black" />
         </div>
       </div>
     </div>
