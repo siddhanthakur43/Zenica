@@ -3,12 +3,12 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className=" bg-white flex justify-between px-20">
-      <a href="/">
-        <img src="/zenica.jpeg" width="70px" height="70px"></img>
-      </a>
+    <footer className=" bg-white flex justify-between px-2 md:px-20">
+      <div className='md:w-1/6'>
+        <img src="/zenica.jpeg"></img>
+      </div>
       <div>
-        <ul className="flex space-x-4">
+        <ul className="flex p-2 space-x-1 md:space-x-4">
           <li className="italic">
             <Link href="/privacy-policy" className="hover:text-blue-500">
               Privacy Policy

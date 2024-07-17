@@ -7,7 +7,7 @@ const Home = () => {
         src="/Medicine.jpg"
         height="992px"
         width="600px"
-        className="rounded-lg mb-5 mt-5 md:mb-10 md:mt-10"
+        className="rounded-lg mb-3 mt-3 md:mb-10 md:mt-10"
       ></img>
       <div className="mb-2 mt-4 md:mb-10 md:mt-20">
         <p className="text-green-600 text-sm md:text-lg"> WHO WE ARE</p>
